@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**suajinko987-hash/suajinko987-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 홍길동 (Gildong Hong)
+> 무역·물류 데이터를 이해하는 국제통상 인재를 목표로 합니다.--
+## 희망 직무- 수출입 무역사무, 포워딩(국제물류 주선), 공급망 관리(SCM)
+## 자격증
+| 자격증 | 발급 기관 | 취득 연월 |
+|--------|-----------|-----------|
+| 무역영어 1급 | 대한상공회의소 | 20XX.XX |
+| 국제무역사 1급 | 한국무역협회 | 20XX.XX |
+| 컴퓨터활용능력 2급 | 대한상공회의소 | 20XX.XX |
+## 활동 경험- **○○ 무역 동아리** 회장 (20XX.03 ~ 20XX.02)- 수출 실무 사례 스터디 운영, 월 2회 발표 진행- **○○ 서포터즈** 대외활동 (20XX.07 ~ 20XX.12)- 중소기업 수출 지원사업 홍보 콘텐츠 제작
+## 수상 경력- 20XX 대진대학교 무역 아이디어 경진대회 우수상
+## 보유 역량- **어학**: TOEIC 850점 (20XX.XX), 영어 비즈니스 이메일 작성 가능- **프로그램**: `Excel` `PowerPoint` `Python 기초`--
+*최종 수정: 20XX년 XX월*
